@@ -11,9 +11,9 @@
   "profile": {
     "name": "typicode"
   },
-    "user": {
-      "id": 1,
-      "firstName": "Claire",
-      "lastName": "Tong",
+  "user": {
+    "id": 1,
+    "firstName": "Claire",
+    "lastName": "Tong",
   }
 }
